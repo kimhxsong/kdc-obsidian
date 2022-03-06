@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# The directory and file were created by a shell script.
+# The directory and files were created by a shell script.
 
 # If the tag name is only a number in the obisidian program, it is not \
 # recognized as a tag, so please note this.
